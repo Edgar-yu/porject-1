@@ -1,4 +1,4 @@
-*{
+*{ 
     background-color: aqua;
 }
 .box1{
@@ -20,3 +20,12 @@
     background-color: rgba(45, 8, 207, 0.384);}
 .box4 p{background-color: ivory;
 }
+
+.box5{display: flex;
+    width: 400px;
+    height: 150px;
+    background-color: darkorchid;
+    
+}
+  
+    
